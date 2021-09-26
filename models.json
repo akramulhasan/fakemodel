@@ -1,1 +1,75 @@
 
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "male",
+        "name": "Anderson Nicolla",
+        "age": "27",
+        "height": "72 inc",
+        "weight": "170lbs",
+        "hair": "black",
+        "eye": "brown",
+        "img": "https://images.unsplash.com/photo-1557977275-d261356f567f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFsZSUyMG1vZGVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rent": 450
+    },
+    {
+        "key": "B002RL8MGS",
+        "category": "male",
+        "name": "A.J Morrison",
+        "age": "35",
+        "height": "68 inc",
+        "weight": "145lbs",
+        "hair": "black-brown",
+        "eye": "blue",
+        "img": "https://images.unsplash.com/photo-1512850692650-c382e34f7fb2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFsZSUyMG1vZGVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rent": 550
+    },
+    {
+        "key": "B002RL8RTY",
+        "category": "male",
+        "name": "Anderson Nicolla",
+        "age": "34",
+        "height": "72 inc",
+        "weight": "170lbs",
+        "hair": "black",
+        "eye": "black",
+        "img": "https://images.unsplash.com/flagged/photo-1571367032928-3034d979fac1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFsZSUyMG1vZGVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rent": 430
+    },
+    {
+        "key": "B002RL8SFE",
+        "category": "male",
+        "name": "A.P Harreld",
+        "age": "31",
+        "height": "68 inc",
+        "weight": "152lbs",
+        "hair": "brown",
+        "eye": "blue",
+        "img": "https://images.unsplash.com/photo-1543764477-646365e11da3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bWFsZSUyMG1vZGVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rent": 650
+    },
+    {
+        "key": "B002RL8LKH",
+        "category": "male",
+        "name": "Aron Manget",
+        "age": "35",
+        "height": "74 inc",
+        "weight": "182lbs",
+        "hair": "balck",
+        "eye": "black",
+        "img": "https://images.unsplash.com/photo-1564061153569-f398cd0a03dd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bWFsZSUyMG1vZGVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rent": 510
+    },
+    {
+        "key": "B002RL8DFG",
+        "category": "male",
+        "name": "Aron Pery",
+        "age": "38",
+        "height": "71 inc",
+        "weight": "162lbs",
+        "hair": "brown",
+        "eye": "blue",
+        "img": "https://images.unsplash.com/photo-1583864697784-a0efc8379f70?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFsZSUyMG1vZGVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rent": 480
+    }
+]
